@@ -28,5 +28,5 @@ Aquí puedes explorar algunos de mis desarrollos modulares aplicando persistenci
 
 ### 📫 Contacto personal:
 
-* **LinkedIn:** [Lisandro Daubian](https://linkedin.com/in/tu-perfil)  
+* **LinkedIn:** [Lisandro Daubian](https://www.linkedin.com/in/lisandro-daubian-373906321)
 * **Email:** lisandrodaubianuno@gmail.com
